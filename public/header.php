@@ -25,7 +25,7 @@
             <!-- Begin logo -->
             <div id="logo_normal" class="logo_container">
                 <div class="logo_align">
-                    <a id="custom_logo" class="logo_wrapper hidden" href="/">
+                    <a id="custom_logo" class="logo_wrapper hidden" href="pasalimani.php">
                         <img src="images/pasalimani.svg" alt="Nihal Sultan Köşkü Paşalimanı" style="width:196px;" />
                     </a>
                 </div>
@@ -33,7 +33,7 @@
 
             <div id="logo_transparent" class="logo_container">
                 <div class="logo_align">
-                    <a id="custom_logo_transparent" class="logo_wrapper default" href="/">
+                    <a id="custom_logo_transparent" class="logo_wrapper default" href="pasalimani.php">
                         <img src="images/pasalimani.svg" alt="Nihal Sultan Köşkü Paşalimanı" style="width:196px;" />
                     </a>
                 </div>
@@ -61,7 +61,7 @@
                     <div id="menu_border_wrapper">
                         <div class="menu-main-menu-container">
                             <ul id="main_menu" class="nav">
-                                <li class="menu-item"><a href="/index.php" aria-current="page">Ana Sayfa</a></li>
+                                <li class="menu-item"><a href="/pasalimani.php" aria-current="page">Ana Sayfa</a></li>
                                 <li class="menu-item"><a href="menu" >Menü </a></li>
                                 <li class="menu-item"><a href="hakkimizda" >Hakkımızda</a></li>
                                 <li class="menu-item"><a href="osmanli-donem-mutfaklari" >Osmanlı Dönem Mutfakları</a></li>

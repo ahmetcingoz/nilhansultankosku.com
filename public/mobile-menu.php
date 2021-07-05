@@ -5,7 +5,7 @@
             <li class="menu-item"><a href="menu">Menü</a></li>
             <li class="menu-item"><a href="hakkimizda">Hakkımızda</a></li>
             <li class="menu-item"><a href="osmanli-donem-mutfaklari">Osmanlı Dönem Mutfakları</a></li>
-            <li class="menu-item"><a href="kosk">Köşk</a></li>
+            <!-- <li class="menu-item"><a href="kosk">Köşk</a></li> -->
         </ul>
     </div>
  

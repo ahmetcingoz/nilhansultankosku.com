@@ -5,7 +5,7 @@
             <div class="page_content_wrapper">
                 <div class="inner">
                     <div class="one_half parallax_scroll" style="width:40%;position:absolute;left:90px;padding:40px;z-index:2;block !important;background:#ffffff;" data-stellar-ratio="1.3">
-                        <h2 class="ppb_title">Eşsiz bir medeniyetin mutfağına davetlisiniz! </h2>
+                        <h2 class="ppb_title">EŞSİZ BİR MEDENİYETİN MUTFAĞINA DAVETLİSİTİNİZ! </h2>
                         <div class="page_header_sep left"></div>Osmanlı dönem mutfaklarının insanı içine alan, “alıp götüren” bir enerjisi, sürekli değişen bir ışığı, kendine özgü kokusu ve ruhu Nilhan Sultan Köşkü Paşalimanı’nda hayat buluyor. 
                         Bu ruhu günümüze aktarmak, ülkemizin dünü ile bugününü buluşturmak, geçmişin değerlerini ve güzelliklerini geleceğe taşımak bizler için ayrı bir önem arzediyor. Köşkümüzün kapısını sizlere bu zamansız mutfağın eşsiz lezzetlerine doyabilmeniz için açtık. Davetlisiniz. 
                         </div>
@@ -73,7 +73,7 @@
             <div class="page_content_wrapper">
                 <div class="inner">
                     <div class="one_half_bg floatright" style="background:#25252f;background:rgb(37,37,47,0.95);background:rgba(37,37,47,0.95);color:#ffffff;">
-                        <h2 class="ppb_title" style="color:#ffffff;"><span class="ppb_title_first" style="color:#ffffff;">Osmanlı Dönem Mutfakları </span>Yüzyılların İzinde Bir Mutfak Kültürü </h2>
+                        <h2 class="ppb_title" style="color:#ffffff;"><span class="ppb_title_first" style="color:#ffffff;">Osmanlı Dönem Mutfakları </span>YÜZYILLARIN İZİNDE BİR MUTFAK KÜLTÜRÜ </h2>
                         <div class="page_header_sep left" style="border-color:#ffffff"></div>
                         <p>Altı yüzyıllık Osmanlı İmparatorluğu Anadolu, Orta Asya, Kuzey Afrika, Orta Doğu ve Balkan coğrafyalarının en nadide lezzetlerinin damıtılmasıyla oluşmuş has bir mutfağa sahiptir. Sınırları içindeki her kültürün mutfağında derin izler bırakan bu gastronomik değeri bugünlere aktarmak bizler için önemli bir sorumluluktur.  Özellikle başkent İstanbul’da en seçkin biçimini alan, Osmanlı coğrafyasının bütün halklarının mutfak geleneklerine açık, buna karşılık Türk kültürünün ağır bastığı, aynı zamanda tarihten gelen köklü mirası da barındıran ve farklı dönemlere göre şekillenen Osmanlı mutfağını kendisine layık bir atmosferde misafirlerimize sunmak da bizim için bu sorumluluğun bir parçasıdır. </p>
                     </div>

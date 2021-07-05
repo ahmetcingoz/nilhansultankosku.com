@@ -37,11 +37,11 @@
 				
 					break;
 
-					case 'kosk';
+					// case 'kosk';
 					
-						include_once 'include/pages/kosk.php';
+					// 	include_once 'include/pages/kosk.php';
 				
-					break;
+					// break;
 
 					case 'osmanli-donem-mutfaklari';
 					
@@ -53,12 +53,6 @@
 					
 						include_once 'include/pages/osmanli-donem-mutfaklari-devami.php';
 				
-					break;
-
-					case 'osmanli-donem-mutfaklari-2';
-					
-						include_once 'include/pages/osmanli-donem-mutfaklari-2.php';
-					
 					break;
 						
 				}							

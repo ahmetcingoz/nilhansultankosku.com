@@ -215,36 +215,6 @@
     <div class="divider one">&nbsp;</div>
     <div class="divider one">&nbsp;</div>
 
-    <!-- <div class="one ppb_menu_with_image" style="position:relative;padding:40px 0 40px 0;">
-        <div class="standard_wrapper">
-            <div class="page_content_wrapper">
-                <div class="inner">
-                    <div class="one_half parallax_scroll" style="width:40%;position:absolute;left:90px;background:#ffffff;padding:40px;z-index:2;" data-stellar-ratio="1.3">
-                        <h2 class="ppb_menu_title">Lalanga</h2>
-                        <div id="menu_2878" class="menu_content_classic">
-                            <h5 class="menu_post">
-                            <div class="post_detail menu_excerpt">Eski Bizanslıların “lalagia” olarak isimlendirdikleri, günümüz Avrupa ülkelerinde de krep olarak adlandırılan çok sevilen bir hamur işidir. Bizans zenginleri bunu bala batırarak yerken Osmanlı saray mutfağında da en çok peynir ve balla yenirdi. Bal, pekmez, kaymak, şurup gibi malzemelerle tatlı olarak; peynir, kıyma, patates, tavuk gibi besinlerle de tuzlu olarak tüketilen Lalanga, tarihi en eskilere dayanan lezzetlerimizden biri.</div>
-                        </div>
-                        
-                    </div>
-                    <div class="one_half parallax_scroll_image last" style="width:65%;">
-                        <div class="image_classic_frame expand">
-                            <div class="image_wrapper">
-                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/osmanli-donem-mutfagi/odm8.jpg" class="portfolio_img" alt="" /></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <br class="clear" />
-
-                </div>
-            </div>
-        </div>
-    </div> -->
-
-    <div class="divider one">&nbsp;</div>
-    <div class="divider one">&nbsp;</div>
-
     <div class="one ppb_menu_with_image" style="position:relative;padding:40px 0 40px 0;">
         <div class="standard_wrapper">
             <div class="page_content_wrapper">
@@ -285,7 +255,7 @@
                                     <h5 class="menu_post">
                                         <span ><h2 class="white-text" style="color: white;">15. YÜZYIL</h2></span>
                                         </br>
-                                        <span class="menu_title">Kebab-ı Makiyan</span>
+                                        <span class="menu_title">KEBAB-I MAKİYAN</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">Kebab-ı Makiyan: 1469’da Osmanlı mutfağının en önemli öznelerinden biri olan bu yemek, özel olarak pişirilir. </div>
                                     
@@ -304,7 +274,7 @@
                                     <h5 class="menu_post">
                                         <span ><h2 class="white-text" style="color: white;">15. YÜZYIL</h2></span>
                                         </br>
-                                        <span class="menu_title">Karidye Pilakisi</span>
+                                        <span class="menu_title">KARİDYE PİLAKİSİ</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">1473 senesinde Topkapı Sarayı’nda ortaya çıkarılan bu lezzet, kabuklu deniz ürünlerinden oluşur.</div>
                                     
@@ -323,7 +293,7 @@
                                     <h5 class="menu_post">
                                         <span ><h2 class="white-text" style="color: white;">15. YÜZYIL</h2></span>
                                         </br>
-                                        <span class="menu_title">Borani-i Hassa</span>
+                                        <span class="menu_title">BORANİ-İ HASSA</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">Soğan, yumurta, pirinç ve yoğurtlu ıspanak ile yapılan Türk mutfağının köklü yemeklerinden biridir. </div>
                                     
@@ -342,7 +312,7 @@
                                     <h5 class="menu_post">
                                         <span ><h2 class="white-text" style="color: white;">16. YÜZYIL</h2></span>
                                         </br>
-                                        <span class="menu_title">Dane-i Sarı</span>
+                                        <span class="menu_title">DANE-İ SARI</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">Adını tarifinde bulunan safranın rengi sarıdan alan leziz bir pilavdır.  </div>
                                     
@@ -361,7 +331,7 @@
                                     <h5 class="menu_post">
                                         <span ><h2 class="white-text" style="color: white;">19. YÜZYIL</h2></span>
                                         </br>
-                                        <span class="menu_title">Vişneli Yaprak Sarması</span>
+                                        <span class="menu_title">VİŞNELİ YAPRAK SARMASI</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">1844 tarihli Vişneli Yaprak Sarması da en sağlıklı meyvelerimizden biri olan vişnenin sarma ile bir araya getirildiği eşsiz zeytinyağlılarımızdan biridir. </div>
                                     
@@ -380,7 +350,7 @@
                                     <h5 class="menu_post">
                                         <span ><h2 class="white-text" style="color: white;">19. YÜZYIL</h2></span>
                                         </br>
-                                        <span class="menu_title">Gerdaniyye</span>
+                                        <span class="menu_title">GERDANİYYE</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt"> Et ile sebze ve baharatın harmanlandığı en sevilen lezzetlerden biridir.</div>
                                     
@@ -399,7 +369,7 @@
                                     <h5 class="menu_post">
                                         <span ><h2 class="white-text" style="color: white;">19. YÜZYIL</h2></span>
                                         </br>
-                                        <span class="menu_title">Kuzu Kol Tandır, Firik Pilavı</span>
+                                        <span class="menu_title">KUZU KOL TANDIR, FİRİK PİLAVI</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">Sunumuyla, tadıyla Türk mutfağının yıldız menülerinden biri olarak bilinen Kuzu Kol Tandır, Firik Pilavı; sofraların en sevilen yemeklerinden.</div>
                                     
@@ -418,7 +388,7 @@
                                     <h5 class="menu_post">
                                         <span ><h2 class="white-text" style="color: white;">19. YÜZYIL</h2></span>
                                         </br>
-                                        <span class="menu_title">Lor Mahlutu</span>
+                                        <span class="menu_title">LOR MAHLUTU</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">1898 tarihli bu lezzet baharat, taze soğan, maydanoz, sivri biber ve domatesle harmanlanan sağlık dolu lor peyniridir.</div>
                                     

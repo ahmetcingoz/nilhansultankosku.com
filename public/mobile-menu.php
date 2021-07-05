@@ -1,7 +1,7 @@
 ﻿<div class="mobile_menu_wrapper">
     <div class="menu-main-menu-container">
         <ul id="mobile_main_menu" class="mobile_main_nav">
-            <li class="menu-item current-menu-item"><a href="/" aria-current="page">Ana Sayfa</a></li>
+            <li class="menu-item current-menu-item"><a href="pasalimani" aria-current="page">Ana Sayfa</a></li>
             <li class="menu-item"><a href="menu">Menü</a></li>
             <li class="menu-item"><a href="hakkimizda">Hakkımızda</a></li>
             <li class="menu-item"><a href="osmanli-donem-mutfaklari">Osmanlı Dönem Mutfakları</a></li>

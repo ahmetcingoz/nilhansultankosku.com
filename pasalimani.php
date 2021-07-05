@@ -25,7 +25,7 @@
 		
 			//$_SESSION ['language'] = _language();
 		
-			require_once $directory . '/settings.php';
+			//require_once $directory . '/settings.php';
 		
 			include_once $directory . '/public/section.php';
 							

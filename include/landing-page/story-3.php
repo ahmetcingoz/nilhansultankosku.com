@@ -22,67 +22,66 @@
 							<br class="clear" />
 							<br/>
 							<div class="one">
-								<div id="menu_3179" class="menu_content_classic">
+								<div id="menu_3197" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">Mastabe</span>
-				<span class="menu_dots"></span></h5>
+										<span class="menu_title">MASTABE</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">22₺</span></h5>
 									<div class="post_detail menu_excerpt">Süzme Yoğurt / Pazı / Çörek otu</div>
 								</div>
 							</div>
 							<div class="one">
-								<div id="menu_3179" class="menu_content_classic">
+								<div id="menu_3178" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">ZEYTİNYAĞLI REZENE</span>
-				<span class="menu_dots"></span></h5>
+										<span class="menu_title">ZEYTİNYAĞLI REZENE</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">30₺</span></h5>
 									<div class="post_detail menu_excerpt">Rezene / Portakal Suyu / Portakal Dilimleri</div>
 								</div>
 							</div>
 							<div class="one">
-								<div id="menu_3180" class="menu_content_classic">
+								<div id="menu_3173" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">TERBİYELİ LEVREK</span>
-				<span class="menu_dots"></span></h5>
+										<span class="menu_title">TERBİYELİ LEVREK</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">48₺</span></h5>
 									<div class="post_detail menu_excerpt">Levrek / Rezene / Sirke</div>
 								</div>
 							</div>
 							<div class="one">
-								<div id="menu_3182" class="menu_content_classic">
+								<div id="menu_3177" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">VİŞNELİ ZEYTİNYAĞLI YAPRAK SARMA</span>
-				<span class="menu_dots"></span></h5>
-									<div class="post_detail menu_excerpt">Pirinç / Kuş Üzümü / Dolmalık Fıstık </div>
+										<span class="menu_title">VİŞNELİ ZEYTİNYAĞLI YAPRAK SARMA</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">38₺</span></h5>
+									<div class="post_detail menu_excerpt">Pirinç / Kuş Üzümü / Dolmalık Fıstık</div>
 								</div>
 							</div>
 							<div class="one">
-								<div id="menu_3182" class="menu_content_classic">
+								<div id="menu_3178" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">ENGİNAR VE ZAHTERLİ KARİDES SALATASI</span>
-				<span class="menu_dots"></h5>
-									<div class="post_detail menu_excerpt">Enginar / Karides / Zahter </div>
+										<span class="menu_title">ENGİNAR VE ZAHTERLİ KARİDES SALATASI</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">45₺</span></h5>
+									<div class="post_detail menu_excerpt">Enginar / Karides / Zahter</div>
 								</div>
 							</div>
 							<div class="one">
-								<div id="menu_3182" class="menu_content_classic">
+								<div id="menu_3178" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">KORUK SULU ÇOBAN SALATA</span>
-				<span class="menu_dots"></h5>
+										<span class="menu_title">KORUK SULU ÇOBAN SALATA</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">25₺</span></h5>
 									<div class="post_detail menu_excerpt">Domates / Salatalık / Köy Biberi</div>
 								</div>
 							</div>
 							<div class="one">
-								<div id="menu_3182" class="menu_content_classic">
+								<div id="menu_3178" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">KABAK TAVA</span>
-				<span class="menu_dots"></h5>
+										<span class="menu_title">KABAK TAVA</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">28₺</span></h5>
 									<div class="post_detail menu_excerpt">Sakız Kabağı / Un / Nişasta</div>
-								</div>
-							</div>
-							<div class="one">
-								<div id="menu_3182" class="menu_content_classic">
-									<h5 class="menu_post">
-				<span class="menu_title">KARİDES PİLAKİSİ</span>
-				<span class="menu_dots"></h5>
-									<div class="post_detail menu_excerpt">Karides / Havuç / Kereviz Sapı</div>
 								</div>
 							</div>
 							<br class="clear" />
@@ -96,58 +95,56 @@
 							<br class="clear" />
 							<br/>
 							<div class="one">
-								<div id="menu_3183" class="menu_content_classic">
+								<div id="menu_3174" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">KANLICA MANTAR, ARPACIK SOĞAN İLE TEREYAĞLI VE SARIMSAKLI İSKORPİT KAVURMA</span>
-				<span class="menu_dots"></span></h5>
+										<span class="menu_title">İSKORPİT KAVURMA</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">62₺</span></h5>
 									<div class="post_detail menu_excerpt">İskorpit Balığı / Sarımsak / Kanlıca Mantar</div>
 								</div>
 							</div>
 							<div class="one">
-								<div id="menu_3184" class="menu_content_classic">
+								<div id="menu_3175" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">AL’A NAZİK</span>
-				<span class="menu_dots"></span></h5>
+										<span class="menu_title">AL’A NAZİK</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">82₺</span></h5>
 									<div class="post_detail menu_excerpt">Patlıcan / Kuzu Eti / Sarımsak</div>
 								</div>
 							</div>
 							<div class="one">
-								<div id="menu_3185" class="menu_content_classic">
+								<div id="menu_3176" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">HÜNKAR BEĞENDİ</span>
-				<span class="menu_dots"></span></h5>
+										<span class="menu_title">HÜNKAR BEĞENDİ</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">79₺</span></h5>
 									<div class="post_detail menu_excerpt">Dana Eti / Salça / Baharatlar</div>
 								</div>
 							</div>
 							<div class="one">
-								<div id="menu_3185" class="menu_content_classic">
+								<div id="menu_3177" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">KEBAB-I MAKİYAN (1469)</span>
-				<span class="menu_dots"></span></h5>
+										<span class="menu_title">KEBAB-I MAKİYAN (1469)</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">22₺</span></h5>
 									<div class="post_detail menu_excerpt">Tavuk But / Yenibahar / Tarçın</div>
 								</div>
 							</div>
 							<div class="one">
-								<div id="menu_3185" class="menu_content_classic">
+								<div id="menu_3197" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">KUZU İNCİK</span>
-				<span class="menu_dots"></span></h5>
+										<span class="menu_title">KUZU İNCİK</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">96₺</span></h5>
 									<div class="post_detail menu_excerpt">Kuzu İncik / Tereyağı / Tuz</div>
 								</div>
 							</div>
 							<div class="one">
-								<div id="menu_3185" class="menu_content_classic">
+								<div id="menu_3177" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">DÖVME KEŞKEK</span>
-				<span class="menu_dots"></span></h5>
-									<div class="post_detail menu_excerpt">Buğday / Et Suyu / Pul Biber</div>
-								</div>
-							</div>
-							<div class="one">
-								<div id="menu_3185" class="menu_content_classic">
-									<h5 class="menu_post">
-				<span class="menu_title">KIYMA PÜRYANİ YUFKADA (1764)</span>
-				<span class="menu_dots"></span></h5>
+										<span class="menu_title">KIYMA PÜRYANİ YUFKADA (1764)</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">74₺</span></h5>
 									<div class="post_detail menu_excerpt">Kuzu Eti Kıyması / Tavuk Eti Kıyması / Anason</div>
 								</div>
 							</div>
@@ -162,43 +159,48 @@
 							<br class="clear" />
 							<br/>
 							<div class="one">
-								<div id="menu_3171" class="menu_content_classic">
+								<div id="menu_3172" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">ELMALI BAKLAVA</span>
-				<span class="menu_dots"></span></h5>
+										<span class="menu_title">ELMALI BAKLAVA</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">36₺</span></h5>
 									<div class="post_detail menu_excerpt">Elma / Ceviz / Şeker</div>
 								</div>
 							</div>
 							<div class="one">
-								<div id="menu_3172" class="menu_content_classic">
+								<div id="menu_3176" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">TELEME</span>
-				<span class="menu_dots"></span></h5>
-									<div class="post_detail menu_excerpt">İncir / Süt </div>
-								</div>
-							</div>
-							<div class="one">
-								<div id="menu_3172" class="menu_content_classic">
-									<h5 class="menu_post">
-				<span class="menu_title">REVANİ</span>
-				<span class="menu_dots"></span></h5>
+										<span class="menu_title">REVANİ</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">28₺</span></h5>
 									<div class="post_detail menu_excerpt">Un / İrmik / Portakal</div>
-								</div>
+                            	</div>
 							</div>
 							<div class="one">
-								<div id="menu_3172" class="menu_content_classic">
-									<h5 class="menu_post">
-				<span class="menu_title">ÇİĞ KREMA İLE LOR TATLISI</span>
-				<span class="menu_dots"></span></h5>
-									<div class="post_detail menu_excerpt">Lor / Un / Yumurta</div>
-								</div>
+							<div id="menu_3178" class="menu_content_classic">
+                                <h5 class="menu_post">
+                                    <span class="menu_title">ÇITIR KADAYIFLI KIZARMIŞ DONDURMA</span>
+                                    <span class="menu_dots"></span>
+                                    <span class="menu_price">28₺</span></h5>
+                                <div class="post_detail menu_excerpt">Vanilyalı Dondurma / Kadayıf </div>
+                            </div>
 							</div>
 							<div class="one">
 								<div id="menu_3173" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">SÜT HELVASI</span>
-				<span class="menu_dots"></span></h5>
-									<div class="post_detail menu_excerpt">Süt / Vanilya / Nişasta</div>
+										<span class="menu_title">LOR TATLISI</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">34₺</span></h5>
+									<div class="post_detail menu_excerpt">Lor / Un / Yumurta</div>
+								</div>
+							</div>
+							<div class="one">
+								<div id="menu_3197" class="menu_content_classic">
+									<h5 class="menu_post">
+										<span class="menu_title">SÜT HELVASI</span>
+										<span class="menu_dots"></span>
+										<span class="menu_price">55₺</span></h5>
+									<div class="post_detail menu_excerpt">Süt / Terme Pirinç / Şeker</div>
 								</div>
 							</div>
 							<br class="clear" />
@@ -214,9 +216,9 @@
 							<div class="one">
 								<div id="menu_2878" class="menu_content_classic">
 									<h5 class="menu_post">
-				<span class="menu_title">Gar Kahvesi</span>
-				<span class="menu_dots"></h5>
-				<div class="post_detail menu_excerpt"></div>
+									<span class="menu_title">Gar Kahvesi</span>
+									<span class="menu_dots"></h5>
+								<div class="post_detail menu_excerpt"></div>
 								</div>
 							</div>
 							<div class="one">

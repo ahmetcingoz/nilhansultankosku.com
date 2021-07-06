@@ -245,7 +245,7 @@
                         <br class="clear" />
                         <br/>
 
-                        <div class="one_half ">
+                        <div class="one_half last">
                             <div id="menu_3197" class="menu_content_classic">
                                 <h5 class="menu_post">
                                     <span class="menu_title">KUZU İNCİK</span>
@@ -290,7 +290,7 @@
                                 <div class="post_detail menu_excerpt">Dana Eti / Salça / Baharatlar</div>
                             </div>
                         </div>
-                        <div class="one_half last">
+                        <div class="one_half ">
                             <div id="menu_3178" class="menu_content_classic">
                                 <h5 class="menu_post">
                                     <span class="menu_title">BALLI MAHMUDİYE</span>
@@ -299,7 +299,7 @@
                                 <div class="post_detail menu_excerpt">Tavuk (Kalça) / Badem / Sirke</div>
                             </div>
                         </div>
-                        <div class="one_half ">
+                        <div class="one_half last">
                             <div id="menu_3177" class="menu_content_classic">
                                 <h5 class="menu_post">
                                     <span class="menu_title">KEBAB-I MAKİYAN (1469)</span>
